@@ -52,16 +52,16 @@ Library-Management-System/
 | ![Login](assets/40a4ee6c618b416e8c77d4e70f8bc17b.jpg) | ![Menu](assets/bcdc0d6029e94e5aab84e10162e390c8.jpg) | ![Members](assets/a71dd8df9b9447bd8c6f4335899a4ea0.jpg) |
 
 
-##🧪 How to Run Locally
+## 🧪 How to Run Locally
 
-    *Clone the repository:*
+    Clone the repository:
     ```bash
     git clone https://github.com/Rahul-KrishnaA/Library-Management-System.git
     cd Library-Management-System
     ```
 Set up MySQL and create the database:
 
-    *Run:*
+    Run:
     ```bash
     python create_db.py
     ```
@@ -71,7 +71,7 @@ Launch the app:
     ```
 ⚙ Requirements
 
-    *Install dependencies:*
+    Install dependencies:
     ```bash
     pip install mysql-connector-python
     ```
