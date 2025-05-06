@@ -59,6 +59,9 @@ Clone the repository:
     git clone https://github.com/Rahul-KrishnaA/Library-Management-System.git
     cd Library-Management-System
     ```
+    
+---
+
 Set up MySQL and create the database:
     Run:
         ```bash
@@ -68,13 +71,20 @@ Set up MySQL and create the database:
         ```bash
         python main.py
         ```
+        
+---
+
 ⚙ Requirements
 
     Install dependencies:
         ```bash
         pip install mysql-connector-python
         ```
+
+---
 Make sure MySQL server is running and credentials are correctly set in create_db.py or wherever required.
 
 🙌 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
