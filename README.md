@@ -61,21 +61,21 @@ Library-Management-System/
     ```
 
 Set up MySQL and create the database:
-    Run:
-        ```bash
-        python create_db.py
-        ```
-    Launch the app:
-        ```bash
-        python main.py
-        ```
+Run:
+    ```bash
+    python create_db.py
+    ```
+
+Launch the app:
+    ```bash
+    python main.py
+    ```
 
 ⚙ Requirements
-
-    Install dependencies:
-        ```bash
-        pip install mysql-connector-python
-        ```
+Install dependencies:
+    ```bash
+    pip install mysql-connector-python
+    ```
 
 Make sure MySQL server is running and credentials are correctly set in create_db.py or wherever required.
 
